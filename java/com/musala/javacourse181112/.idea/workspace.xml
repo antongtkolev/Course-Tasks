@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fba88667-82c1-4413-a642-8aaadddc3a63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AgeCalculator/AgeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotations/AnnotationUsageSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotations/OverwriteAnnotationCheckSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotations/SampleAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/ArraysExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/AutoAndUnboxingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/ChromosomesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/CollectionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/ConditionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/EnumsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/Hi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/LoopsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/OperatorsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/VarArgsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/ArrayBlockingQueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/CheckedWrappersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/CollectionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/ConvenienceImplementationsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/DeduplicationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/EnumMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/EnumSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/LoopAndModifyCollectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/SyncrhonizedWrappersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/UnmodifiableWrappersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/ThreadExecutorUsingCallables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/ThreadInterruptStopSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/ThreadPoolExecutorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/WaitAndNotifySample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/ExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/BoundedTypeParametersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/ClassLevelGenericsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/GenericsTriDimensionalMatrixecersice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/MethodGenericsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/PopulatePersonClassGenericAlgorithmExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/RecursionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/WildcardExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/BufferedInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/DataObjectStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/FileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/FileExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/InputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/InputStreamReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/LineNumberReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/PipedInputOutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/SequenceInputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/StringToStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/MultithreadedServerAndClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio/FileChannelExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio/FileVisitorWalkTreeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio/NewZipFileSystemExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio/WalkPathRecursiveMaxDepthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nio/WatchServiceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/AnonymousClassSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/CompositionSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/CustomComparatorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/ExtendedEnumSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/InheritanceSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/InitializingClassInstanceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/InnerClassSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/LocalClassSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/NaturalOrderingCompareSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/StandardUtilsSampleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/StaticNestedClassSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/StaticNonStaticContextSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/StaticNonStaticContextSampleEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/StaticNonstaticFieldBlockConstructorOrderSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/ThisKeywordSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/calculatorexercise/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/calculatorexercise/Calculatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/calculatorexercise/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/calculatorexercise/SumCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/calculatorexercise/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/Issueable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/AbstractItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/Issue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/ItemRent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/Newspaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/libraryexercise/model/SubscriptionRenewal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/votesexercise/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/votesexercise/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/votesexercise/model/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/votesexercise/model/AnswerGiven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/votesexercise/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/votesexercise/model/Poll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/votesexercise/model/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/votesexercise/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/votesexercise/service/PollService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/votesexercise/service/exception/PersonAlreadyVotedQuestionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openingDay/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/SingletonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/WrapperExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflection/CglibSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflection/ProxySample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflection/ReflectionConstructorSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflection/ReflectionEntryPointSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reflection/ReflectionGenericConstructorsSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/Java Program - first weekend.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/access/TestA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/access/TestB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/access/child/TestC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/access/child/TestE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/arrays/ArrayExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/arrays/ArrayExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/arrays/ArrayExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/arrays/SumAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/bitwise/operations/BitwiseAND.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/bitwise/operations/BitwiseOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/bitwise/operations/Complement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/bitwise/operations/IntToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/bitwise/operations/LeftShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/bitwise/operations/RightShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/bitwise/operations/Xor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/bitwise/operations/unsigned/RightShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/conditionals/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/conditionals/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/conditionals/Ladder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/conditionals/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/conditionals/SwitchCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/conditionals/SwitchDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/data/types/Primitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/data/types/PrimitivesStrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/data/types/ShortSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/first/touch/HelloName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/first/touch/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/homework/RomanNumerals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/io/PushbackReaderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/breaks/LabeledBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/breaks/LabeledBreak2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/breaks/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/breaks/UserInputSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/continues/LabeledContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/continues/SumPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/continues/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/fors/Infinite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/fors/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/fors/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/fors/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/fors/enhancement/EnhancedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/fors/enhancement/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/fors/enhancement/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/whiles/DoWhileSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/whiles/Infinite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/whiles/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/loops/whiles/WhileSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/operations/BufferedReaderSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/operations/BufferedWriterSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/operations/CheckFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/operations/FilesCopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/operations/FilesDeleteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/operations/FilesMoveFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/operations/FilesReadLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/operations/FilesWalkExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/operations/FilesWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/operations/RandomAccessFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/path/PathComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/path/PathToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/file/path/TestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/list/all/files/DirectoryStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/list/all/files/FileListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/list/all/files/FilesCertainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/list/all/files/FindAllHiddenFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/list/all/files/ListFilterExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/nio2/list/all/files/ListOnlyFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/operators/ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/operators/AssignmentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/operators/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/operators/RelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/operators/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/operators/UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/operators/instanceofOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/operators/strings/ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/output/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/output/JavaOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/output/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/output/SimpleInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/output/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/CharArrayStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/CompareToExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/ConcatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/LengthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/TestImmutableString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/TestImmutableString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/TestStringComparison4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/TestStringConcatenation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/TestStringConcatenation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/TestStringConcatenation3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/TestStringEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/TestStringEquals3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/TestStringEqualsIgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/TestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/format/StringFormat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/format/StringFormat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/format/StringFormat3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/format/StringFormat4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples/strings/format/StringFormatOctalHex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/Java Program - second weekend.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/MyClassMultipleObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/MyClassSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/OtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/attributes/MyClassChangeAtt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/attributes/MyClassImmutableAtt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/attributes/MyClassMultipleObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/attributes/MyClassSetAtt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/attributes/MyClassSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/attributes/PersonMultipleAtt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/constructors/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/constructors/MyClassConsParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/constructors/MyClassConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/methods/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/methods/CarSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/methods/MyClassPublicMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/methods/MyClassStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/classes/methods/OtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/ArrayToCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/CollectionRemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/CollectionReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/CollectionSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/CollectionToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/CompareElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/DifferentCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/HashMapIterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/HashtableEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/HashtableKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/ListMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/ListRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/ReadOnlyCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/ReplaceListElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/ShuffleCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/Sublist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/collections/TreeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/queue/DequeDblLinkedListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/queue/DoubleEndedQueueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/queue/DynamicQueueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/queue/PriorityQueueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/queue/QueueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/stack/InfixFullParantEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/stack/MyDecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/stack/MyDelimiterMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/stack/MyDynamicStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/stack/MyGenericsStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/stack/MyStackImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/stack/MyWordReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/data/structures/stack/TowersOfHanoiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/encapsulation/SuccessfulTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/encapsulation/WrongTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/GenericsJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/GenericsOldJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/bounded/type/MaximumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/classes/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/inheritance/GenericsInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/interfaces/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/method/GenericMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/method/GenericsMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/type/GenericsType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/type/GenericsTypeOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/wildcard/GenericsWildcards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/generics/wildcard/MoreWildcards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/inheritance/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/polymorphism/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/searching/BinarySearchDivideConquer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/searching/RecursiveBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/searching/SequentialSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/trees/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/samples2/trees/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet/BookPopulatingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet/GuestUserFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet/HelloWorldServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet/LibraryPopulatingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servlet/PersonListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/javacourse181112.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javacourse181112" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacourse181112" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fba88667-82c1-4413-a642-8aaadddc3a63" name="Default Changelist" comment="" />
+      <created>1562759812737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562759812737</updated>
+      <workItem from="1562759813967" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="223000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task" />
+    <option name="LAST_COMMIT_MESSAGE" value="task" />
+  </component>
+</project>
